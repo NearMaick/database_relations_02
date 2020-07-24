@@ -34,5 +34,3 @@ class CreateCustomerService {
 }
 
 export default CreateCustomerService;
-
-// parei por aqui: 48'45
